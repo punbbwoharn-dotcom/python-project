@@ -5,4 +5,4 @@ ten = (num % 100) // 10
 one = num % 10
 total = hund + ten + one
 print("Output :", total)
-print
+print("Output :", total)
