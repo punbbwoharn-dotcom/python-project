@@ -2,6 +2,6 @@
 print("Hello World")
 
 # Variable assignment
-name = "Nora"
+name = "Nero"
 age = 25
 print(f"Hi, my name is {name} and I am {age} years old.")
